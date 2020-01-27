@@ -1,4 +1,6 @@
 django/hillel_venv
+.vscode
+migrations
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
